@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Colher (turquesa) -->
+    <path
+        android:fillColor="#4ECDC4"
+        android:pathData="M40,30c-6,0 -11,5 -11,11c0,10 11,22 11,22s11,-12 11,-22c0,-6 -5,-11 -11,-11z" />
+
+    <!-- Garfo (laranja) -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M65,30h4v18h-4zM60,30h4v18h-4zM70,30h4v18h-4zM60,48h14v4h-14z"/>
+
+    <!-- Prato (dourado) -->
+    <path
+        android:fillColor="#F7931E"
+        android:pathData="M30,70a24,24 0 1,0 48,0a24,24 0 1,0 -48,0z" />
+</vector>
